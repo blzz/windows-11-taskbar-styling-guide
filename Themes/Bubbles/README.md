@@ -28,7 +28,7 @@ The theme styles can also be imported manually. To do that, follow these steps:
 <summary>Content to import (click to expand)</summary>
 
 ```json
-{
+{{
   "controlStyles[0].target": "Rectangle#BackgroundFill",
   "controlStyles[0].styles[0]": "Fill=#EE080810",
   "controlStyles[1].target": "Taskbar.TaskListLabeledButtonPanel@RunningIndicatorStates > Border#BackgroundElement",
@@ -100,5 +100,4 @@ The theme styles can also be imported manually. To do that, follow these steps:
   "controlStyles[16].styles[0]": "CornerRadius=16,5,5,16",
   "controlStyles[16].styles[1]": "Margin=-3,4,0,4"
 }
-```
 </details>
